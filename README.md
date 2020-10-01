@@ -2,6 +2,8 @@
 
 This is a project where you can show us your potential.
 
+![](https://media.giphy.com/media/Dh9jqNm8YcGVG/giphy.gif)
+
 ## Instructions
 
 For this technical test you will need to have this in mind:
