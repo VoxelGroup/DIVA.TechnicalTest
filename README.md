@@ -16,9 +16,9 @@ For this technical test you will need to have this in mind:
 
 Given 3 images that you can find under the folder ``images`` generate an array of data with the information inside them. 
 
-Next write a program that takes for input the array and extracts the relevant data from them classified.
+Next write a program that takes as input the array and extracts the relevant data from them classified, as shown in the Expected output example.
 
-**Extra**: Export the output as an excel sheet.
+Finally export the output as an excel sheet.
 
 Example input:
 
