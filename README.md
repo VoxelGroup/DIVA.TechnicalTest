@@ -43,3 +43,14 @@ Expected output:
 * To know which data goes where you can use RegEx
 
 * The input data might not be always ordered, it could be unordered.
+
+# SOLUTION
+## INSTRUCTIONS
+* Open the project with the pom.xml in order to load all the dependencies [RECOMENDED: Use IntelliJ IDEA].
+
+* Load any file (image) you want to scan in the /resources/images folder. There are already three images loaded in this 
+    file (ticket1.jpeg, ticket2.jpeg, ticket3.jpeg).
+
+* Specify the image file name as a parameter (IE. "ticket1.jpeg");
+
+* Run it! You should see the output text of the image and a json object with its respective info. 
